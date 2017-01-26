@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="PostgreSQL - hiberweb@localhost" uuid="c93b887e-02ee-4ad8-847a-29f60137a5ab">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+    <database-model serializer="dbm" rdbms="POSTGRES" format-version="2.5">
+      <database id="1" name="hiberweb"/>
+      <schema id="2" parent="1" name="public">
+        <object-id>2200</object-id>
+        <comment>standard public schema</comment>
+        <introspection-timestamp>2017-01-13.02:45:43.144</introspection-timestamp>
+      </schema>
+    </database-model>
+  </data-source>
+</component>
